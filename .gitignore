@@ -1,0 +1,13 @@
+
+# Exclude .class files
+*.class
+
+# Exclude .settings directory
+.settings/
+
+# Exclude .project file
+*.project
+
+
+
+
